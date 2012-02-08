@@ -1,0 +1,4 @@
+This application was made using the Google Maps JavaScript API v3.
+You can define several points (markers) using JSON.
+The application reads the JSON and shows the markers on the map.
+Also, in the information window in the map, you can get directions from some address to the marker address.
